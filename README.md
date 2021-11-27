@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ElgunMagsudzada
 - 👀 I’m interested in Tech
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning AI
 - 📫 How to reach me elgunmagsudzada@gmail.com
